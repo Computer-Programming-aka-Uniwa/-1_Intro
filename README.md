@@ -1,11 +1,14 @@
 # Intro to C Programming Language - University Assignment
 
+For the detailed Documentation please click the link below:
+[Documentation](Documentation/ATHANASIOU_19390005.pdf)
+
 ## Course Information
 - **Course**: Computer Programming
 - **Semester**: 1
 - **Program**: UNIWA
-- **Department**: Information and Computer Engineering
-- **Instructor**: Georgios Meletiou
+- **Department**: [Information and Computer Engineering](https://ice.uniwa.gr/)
+- **Instructor**: [Georgios Meletiou](https://ice.uniwa.gr/emd_person/17562/)
 - **Laboratory**: M2
 - **Date of Completion**: 29/10/2021
 
