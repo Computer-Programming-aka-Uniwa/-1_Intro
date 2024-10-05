@@ -1,20 +1,20 @@
 # Intro to C Programming Language - University Assignment
 
-For the detailed Documentation please click the link below:
+For the detailed Documentation, click the link:
 [Documentation](Documentation/ATHANASIOU_19390005.pdf)
 
 ## Course Information
 - **Course**: Computer Programming
 - **Semester**: 1
-- **Program**: UNIWA
+- **Program**: [UNIWA](https://www.uniwa.gr/)
 - **Department**: [Information and Computer Engineering](https://ice.uniwa.gr/)
 - **Instructor**: [Georgios Meletiou](https://ice.uniwa.gr/emd_person/17562/)
 - **Laboratory**: M2
 - **Date of Completion**: 29/10/2021
 
 ## Student Information
-- **Name**: Athanasiou Vassileios Evangelos
-- **Student ID**: 19390005
+- **Name**: Athanasiou Vasileios Evangelos
+- **Student ID**: ice19390005
 - **Status**: Graduate
 
 ## Assignment Title
