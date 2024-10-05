@@ -52,12 +52,12 @@ The program implements basic arithmetic operations and highlights potential synt
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Computer-Programming-aka-Uniwa/Intro.git
-cd Intro```
+cd Intro
 
 ### 2. Compile
-```bash
-gcc -o main C1aCorrect.c```
+
+gcc -o main C1aCorrect.c
 
 ### 3. Run
-```bash
-./main```
+
+./main
