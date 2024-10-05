@@ -60,10 +60,12 @@ cd Intro
 
 ### 2. Compile
 ```
-gcc -o main C1aCorrect.c
+gcc -o C1aWrong C1aWrong.c
+gcc -o C1aCorrect C1aCorrect.c
 ```
 
 ### 3. Run
 ```
-./main
+./C1aWrong
+./C1aCorrect
 ```
