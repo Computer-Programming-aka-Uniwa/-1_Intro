@@ -1,4 +1,4 @@
-# Intro to C Programming Language - University Assignment
+# Intro in C - University Assignment
 
 For the detailed Documentation, click the link:
 [Documentation](Documentation/ATHANASIOU_19390005.pdf)
