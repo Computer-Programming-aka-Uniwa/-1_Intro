@@ -12,7 +12,7 @@ For the detailed Documentation, click the link:
 [Documentation](Documentation/)
 
 ## Course Information
-- **Course**: Computer Programming
+- **Course**: [Computer Programming](https://ice.uniwa.gr/education/undergraduate/courses/computer-programming/)
 - **Semester**: 1
 - **Program**: [UNIWA](https://www.uniwa.gr/)
 - **Department**: [Information and Computer Engineering](https://ice.uniwa.gr/)
